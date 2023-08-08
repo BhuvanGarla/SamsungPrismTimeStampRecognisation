@@ -1,0 +1,4 @@
+train: /contents/AllPics_1800_new/images/train
+val: /contents/AllPics_1800_new/images/validation
+nc: 3
+names: ["systime", "usertime", "sysdatetime"]
